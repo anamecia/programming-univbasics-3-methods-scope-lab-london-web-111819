@@ -13,8 +13,8 @@ def link
   puts catch_phase
 end
 
-phrase = 'Do A Barrel Roll!'
+
 def any_phase(phrase)
-  
+  phrase = 'Do A Barrel Roll!'
   puts phrase
 end
