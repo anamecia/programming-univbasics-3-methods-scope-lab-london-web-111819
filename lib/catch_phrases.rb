@@ -10,4 +10,5 @@ end
 
 def link 
   catch_phase = "It's Dangerous To Go Alone! Take This."
+  puts catch_phase
 end
