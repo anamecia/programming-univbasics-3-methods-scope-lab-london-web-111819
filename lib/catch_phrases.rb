@@ -12,3 +12,8 @@ def link
   catch_phase = "It's Dangerous To Go Alone! Take This."
   puts catch_phase
 end
+
+phrase = 'Do A Barrel Roll!'
+def any_phase(phrase)
+  puts phrase
+end
